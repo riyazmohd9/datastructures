@@ -49,6 +49,4 @@ ll.add_end(650)
 ll.add_beg(50)
 ll.delete_end(650)
 ll.display()
-
-lavada
  
